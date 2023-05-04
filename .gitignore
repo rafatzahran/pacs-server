@@ -754,3 +754,4 @@ cython_debug/
 *.key
 *.pem
 .idea
+orthanc-db/*
