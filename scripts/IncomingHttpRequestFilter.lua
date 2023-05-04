@@ -1,6 +1,6 @@
-local viewers = {'zhiva', 'zhiva-editor'}
-local editors = {'zhiva-editor'}
-local admins = {'zhiva-admin'}
+local viewers = {'radiologist-viewer', 'radiologist-editor'}
+local editors = {'radiologist-editor'}
+local admins = {'radiologist-admin'}
 
 local function has_value (tab, val)
     for index, value in ipairs(tab) do
